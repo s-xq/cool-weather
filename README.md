@@ -37,3 +37,13 @@
 >2.sxq：石小强<br>
 >3.wang:王铭海<br>
 >4.ou:欧建培<br>
+
+效果展示<br>
+===========
+![](https://github.com/s-xq/cool-weather/image/1.jpeg)
+![](https://github.com/s-xq/cool-weather/image/2.jpeg)  
+![](https://github.com/s-xq/cool-weather/image/3.jpeg)  
+![](https://github.com/s-xq/cool-weather/image/4.jpeg)  
+![](https://github.com/s-xq/cool-weather/image/5.jpeg)  
+
+
