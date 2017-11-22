@@ -40,10 +40,10 @@
 
 效果展示<br>
 ===========
-![](https://github.com/s-xq/cool-weather/image/1.jpeg)
-![](https://github.com/s-xq/cool-weather/image/2.jpeg)  
-![](https://github.com/s-xq/cool-weather/image/3.jpeg)  
-![](https://github.com/s-xq/cool-weather/image/4.jpeg)  
-![](https://github.com/s-xq/cool-weather/image/5.jpeg)  
+![](https://github.com/s-xq/cool-weather/blob/master/image/1.jpeg)
+![](https://github.com/s-xq/cool-weather/blob/master/image/2.jpeg)  
+![](https://github.com/s-xq/cool-weather/blob/master/image/3.jpeg)  
+![](https://github.com/s-xq/cool-weather/blob/master/image/4.jpeg)  
+![](https://github.com/s-xq/cool-weather/blob/master/image/5.jpeg)  
 
 
